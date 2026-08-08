@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/asyncnet_bench_client.dir/client/BenchmarkClient.cpp.o CMakeFiles/asyncnet_bench_client.dir/src/Protocol.cpp.o -o asyncnet_bench_client  -lpthread 
