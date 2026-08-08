@@ -109,7 +109,7 @@ cmake --build build -j 4
 ---
 
 ## 👨‍💻 Author & Career Growth Narrative
-This project represents **Project 1** in a 3-tier high-performance C++ systems portfolio showcasing progression from foundational socket networking to low-latency financial systems and distributed consensus algorithms.
+This project represents high-performance C++ systems portfolio showcasing progression from foundational socket networking to low-latency financial systems and distributed consensus algorithms.
 
-- 📬 LinkedIn: [Your Profile Link]
-- 📁 GitHub: [Your GitHub Link]
+- 📬 LinkedIn: linkedin.com/in/haripriya-m-a-4b9a151b2
+- 📁 GitHub: https://codewithharipriya.github.io/haripriya-portfolio/
