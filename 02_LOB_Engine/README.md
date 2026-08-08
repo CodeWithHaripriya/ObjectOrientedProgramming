@@ -103,7 +103,7 @@ cmake --build build -j 4
 ---
 
 ## 👨‍💻 Author & Career Growth Narrative
-This project represents **Project 2** in a 3-tier high-performance C++ systems portfolio showcasing progression from foundational socket networking ([AsyncNet-Server](../01_AsyncNet_Server)) to low-latency financial systems ([LOB-Engine](./)) and distributed consensus engines ([DistriKV-Raft](../03_DistriKV_Raft)).
+This project represents high-performance C++ systems portfolio showcasing progression from foundational socket networking ([AsyncNet-Server](../01_AsyncNet_Server)) to low-latency financial systems ([LOB-Engine](./)) and distributed consensus engines ([DistriKV-Raft](../03_DistriKV_Raft)).
 
-- 📬 LinkedIn: [Your Profile Link]
+- 📬 LinkedIn: linkedin.com/in/haripriya-m-a-4b9a151b2
 - 📁 GitHub: https://github.com/CodeWithHaripriya/ObjectOrientedProgramming
